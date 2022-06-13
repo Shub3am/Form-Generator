@@ -14,7 +14,6 @@ Submit.addEventListener("click", (e) => {
 	dtype.type = Type
 	div.appendChild(dlabel)
 	div.appendChild(dtype)
-	div.
 	Adder.appendChild(div)
 	}
 
